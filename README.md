@@ -16,7 +16,7 @@ The most important task in structuring a search engine marketing account is mapp
 8. Save and summarize!
 
 # Topics Covered:
-Data Manipulation
+- Data Manipulation
 
 # Demonstration:
 
