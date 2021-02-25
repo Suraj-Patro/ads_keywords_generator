@@ -26,7 +26,7 @@ The most important task in structuring a search engine marketing account is mapp
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/Suraj-Patro/ads_keywords_generator/blob/main/Generating_Keywords_for_Google_Ads.ipynb)
 [![mybinder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Suraj-Patro/ads_keywords_generator/main?filepath=Generating_Keywords_for_Google_Ads.ipynb)
 
-- *Executing [Generating_Keywords_for_Google_Ads.py](https://raw.githubusercontent.com/Suraj-Patro/ads_keywords_generator/main/Generating_Keywords_for_Google_Ads.py) in a Python Environment with the [required packages](https://github.com/Suraj-Patro/ads_keywords_generator#packages-required) installed.*
+- *Executing [Generating_Keywords_for_Google_Ads.py](https://raw.githubusercontent.com/Suraj-Patro/ads_keywords_generator/main/generating_keywords_for_google_ads.py) in a Python Environment with the [required packages](https://github.com/Suraj-Patro/ads_keywords_generator#packages-required) installed.*
 
 # Packages Required
 - [Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/index.html#getting-started)
